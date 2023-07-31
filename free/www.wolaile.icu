@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.hxyyds.top/link/5kxIy80YxpuEYU57?clash=1
+#!MANAGED-CONFIG https://www.hxyyds.top/link/KnwJjgu4cuCX2Prr?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2023-07-31 06:15:35
+## 上次更新于：2023-07-31 06:32:53
 #---------------------------------------------------#
 
 port: 7890
@@ -18,7 +18,7 @@ proxies:
     type: vmess
     server: dagebeidale.donghui.tech
     port: 28229
-    uuid: 3cb63bb1-786b-3552-aae2-5fbd1efa92b6
+    uuid: c5006dda-ffce-330b-8304-ef2ddadd92f7
     alterId: 0
     cipher: auto
     udp: true
@@ -27,7 +27,7 @@ proxies:
     type: vmess
     server: qqbdgzydb.fosi.hk
     port: 18565
-    uuid: 3cb63bb1-786b-3552-aae2-5fbd1efa92b6
+    uuid: c5006dda-ffce-330b-8304-ef2ddadd92f7
     alterId: 0
     cipher: auto
     udp: true
@@ -36,7 +36,7 @@ proxies:
     type: vmess
     server: qqbdgzydb.fosi.hk
     port: 58049
-    uuid: 3cb63bb1-786b-3552-aae2-5fbd1efa92b6
+    uuid: c5006dda-ffce-330b-8304-ef2ddadd92f7
     alterId: 0
     cipher: auto
     udp: true
@@ -45,7 +45,7 @@ proxies:
     type: vmess
     server: qqbdshcm.donghui.tech
     port: 58836
-    uuid: 3cb63bb1-786b-3552-aae2-5fbd1efa92b6
+    uuid: c5006dda-ffce-330b-8304-ef2ddadd92f7
     alterId: 0
     cipher: auto
     udp: true
@@ -54,7 +54,7 @@ proxies:
     type: vmess
     server: ahhfb.fosi.hk
     port: 50634
-    uuid: 3cb63bb1-786b-3552-aae2-5fbd1efa92b6
+    uuid: c5006dda-ffce-330b-8304-ef2ddadd92f7
     alterId: 0
     cipher: auto
     udp: true
@@ -63,7 +63,7 @@ proxies:
     type: vmess
     server: shdx.donghui.tech
     port: 21005
-    uuid: 3cb63bb1-786b-3552-aae2-5fbd1efa92b6
+    uuid: c5006dda-ffce-330b-8304-ef2ddadd92f7
     alterId: 0
     cipher: auto
     udp: true
@@ -72,7 +72,7 @@ proxies:
     type: vmess
     server: hzyd.donghui.tech
     port: 39610
-    uuid: 3cb63bb1-786b-3552-aae2-5fbd1efa92b6
+    uuid: c5006dda-ffce-330b-8304-ef2ddadd92f7
     alterId: 0
     cipher: auto
     udp: true
@@ -81,7 +81,7 @@ proxies:
     type: vmess
     server: shshcua.fosi.hk
     port: 60601
-    uuid: 3cb63bb1-786b-3552-aae2-5fbd1efa92b6
+    uuid: c5006dda-ffce-330b-8304-ef2ddadd92f7
     alterId: 0
     cipher: auto
     udp: true
@@ -90,7 +90,7 @@ proxies:
     type: vmess
     server: hzcu.donghui.tech
     port: 56334
-    uuid: 3cb63bb1-786b-3552-aae2-5fbd1efa92b6
+    uuid: c5006dda-ffce-330b-8304-ef2ddadd92f7
     alterId: 0
     cipher: auto
     udp: true
@@ -99,7 +99,7 @@ proxies:
     type: vmess
     server: shdx.donghui.tech
     port: 40765
-    uuid: 3cb63bb1-786b-3552-aae2-5fbd1efa92b6
+    uuid: c5006dda-ffce-330b-8304-ef2ddadd92f7
     alterId: 0
     cipher: auto
     udp: true
@@ -108,7 +108,7 @@ proxies:
     type: vmess
     server: shshcua.fosi.hk
     port: 55175
-    uuid: 3cb63bb1-786b-3552-aae2-5fbd1efa92b6
+    uuid: c5006dda-ffce-330b-8304-ef2ddadd92f7
     alterId: 0
     cipher: auto
     udp: true
@@ -117,7 +117,7 @@ proxies:
     type: vmess
     server: qqbdshcm.donghui.tech
     port: 26561
-    uuid: 3cb63bb1-786b-3552-aae2-5fbd1efa92b6
+    uuid: c5006dda-ffce-330b-8304-ef2ddadd92f7
     alterId: 0
     cipher: auto
     udp: true
