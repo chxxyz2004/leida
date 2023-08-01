@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.baihu1225.com/link/Xj4n35ZDdMjSJJwI?clash=1
+#!MANAGED-CONFIG https://www.baihu1225.com/link/V15VOMkgL2tPo8wp?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2023-08-01 12:30:19
+## 上次更新于：2023-08-01 02:35:33
 #---------------------------------------------------#
 
 port: 7890
