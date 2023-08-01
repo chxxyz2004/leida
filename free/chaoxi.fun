@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://cxsub.club/link/Wj6dq92hawCRZWLs?clash=1
+#!MANAGED-CONFIG https://cxsub.club/link/d5M7jowTCdT20jfZ?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2023-03-25 06:28:53
+## 上次更新于：2023-08-01 08:49:21
 #---------------------------------------------------#
 
 mixed-port: 7890
@@ -51,40 +51,16 @@ dns:
       - +.githubusercontent.com
 proxies:
   -
-    name: '1. 跳转域名： chaoxi.cool'
+    name: '1. 引导页：bit.ly/3robtQv'
     type: ssr
     server: chaoxi.cool
     port: 2000
     cipher: chacha20-ietf
     password: cxssr911
     protocol: auth_aes128_md5
-    protocol-param: '59063:AbzzscbpFs7pVce0'
+    protocol-param: '61222:6jR6A3AKwdIzjhWh'
     obfs: http_simple
-    obfs-param: 02f5259063.microsoft.com
-    udp: true
-  -
-    name: '2. 站点域名： chaoxi.info'
-    type: ssr
-    server: chaoxi.info
-    port: 2000
-    cipher: chacha20-ietf
-    password: cxssr911
-    protocol: auth_aes128_md5
-    protocol-param: '59063:AbzzscbpFs7pVce0'
-    obfs: http_simple
-    obfs-param: 02f5259063.microsoft.com
-    udp: true
-  -
-    name: '3. TG组 ：https://t.me/cxserver'
-    type: ssr
-    server: t.me/cxserver
-    port: 2000
-    cipher: chacha20-ietf
-    password: cxssr911
-    protocol: auth_aes128_md5
-    protocol-param: '59063:AbzzscbpFs7pVce0'
-    obfs: http_simple
-    obfs-param: 02f5259063.microsoft.com
+    obfs-param: c904461222.microsoft.com
     udp: true
 proxy-groups:
   -
@@ -92,9 +68,7 @@ proxy-groups:
     type: select
     proxies:
       - '⭐️ Auto'
-      - '1. 跳转域名： chaoxi.cool'
-      - '2. 站点域名： chaoxi.info'
-      - '3. TG组 ：https://t.me/cxserver'
+      - '1. 引导页：bit.ly/3robtQv'
   -
     name: '🍂 Domestic'
     type: select
@@ -110,9 +84,7 @@ proxy-groups:
     name: '⭐️ Auto'
     type: url-test
     proxies:
-      - '1. 跳转域名： chaoxi.cool'
-      - '2. 站点域名： chaoxi.info'
-      - '3. TG组 ：https://t.me/cxserver'
+      - '1. 引导页：bit.ly/3robtQv'
     url: 'http://www.gstatic.com/generate_204'
     interval: '28800'
 
