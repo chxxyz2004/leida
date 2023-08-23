@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.hxyyds.top/link/u6S7rVoFEajdjthO?clash=1
+#!MANAGED-CONFIG https://ccddcd.com/link/bVAOsApNcfh4s6b8?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2023-07-31 08:49:57
+## 上次更新于：2023-08-24 02:33:29
 #---------------------------------------------------#
 
 port: 7890
@@ -14,74 +14,92 @@ external-controller: '0.0.0.0:9090'
 secret: ''
 proxies:
   -
-    name: dx1-台湾b-1Gbps
+    name: hx1-香港a-1Gbps
     type: vmess
-    server: dagebeidale.donghui.tech
-    port: 28229
-    uuid: 6031ffba-2b58-33cd-92eb-b6ffa7760043
+    server: fsyy.fosi.hk
+    port: 40815
+    uuid: d39a1fec-5939-3bb8-af7b-62ddc236a499
     alterId: 0
     cipher: auto
     udp: true
   -
-    name: hx1-印度a-x3倍率
+    name: hx1-香港b-1Gbps
     type: vmess
     server: qqbdgzydb.fosi.hk
-    port: 18565
-    uuid: 6031ffba-2b58-33cd-92eb-b6ffa7760043
+    port: 46068
+    uuid: d39a1fec-5939-3bb8-af7b-62ddc236a499
     alterId: 0
     cipher: auto
     udp: true
   -
-    name: hx1-台湾a-1Gbps
+    name: 'Ax1-香港b-1Gbps -x2倍率'
     type: vmess
     server: qqbdgzydb.fosi.hk
-    port: 58049
-    uuid: 6031ffba-2b58-33cd-92eb-b6ffa7760043
+    port: 56408
+    uuid: d39a1fec-5939-3bb8-af7b-62ddc236a499
     alterId: 0
     cipher: auto
     udp: true
   -
-    name: hx1-台湾b-1Gbps
+    name: Ax2-香港a-1Gbps
     type: vmess
-    server: qqbdshcm.donghui.tech
-    port: 58836
-    uuid: 6031ffba-2b58-33cd-92eb-b6ffa7760043
+    server: gddx.fosi.hk
+    port: 44231
+    uuid: d39a1fec-5939-3bb8-af7b-62ddc236a499
+    alterId: 0
+    cipher: auto
+    udp: true
+  -
+    name: Ax2-香港b-1Gbps
+    type: vmess
+    server: ahhfb.fosi.hk
+    port: 45536
+    uuid: d39a1fec-5939-3bb8-af7b-62ddc236a499
+    alterId: 0
+    cipher: auto
+    udp: true
+  -
+    name: 'hx1 台湾1 -1Gbps'
+    type: vmess
+    server: shdx.donghui.tech
+    port: 53990
+    uuid: d39a1fec-5939-3bb8-af7b-62ddc236a499
     alterId: 0
     cipher: auto
     udp: true
   -
     name: 'hx1-新加坡-a1Gbps -x3倍率'
     type: vmess
-    server: ahhfb.fosi.hk
-    port: 50634
-    uuid: 6031ffba-2b58-33cd-92eb-b6ffa7760043
+    server: fsyy.fosi.hk
+    port: 54634
+    uuid: d39a1fec-5939-3bb8-af7b-62ddc236a499
     alterId: 0
     cipher: auto
     udp: true
   -
     name: 'hx1-新加坡-b1Gbps -x3倍率'
     type: vmess
-    server: shdx.donghui.tech
-    port: 21005
-    uuid: 6031ffba-2b58-33cd-92eb-b6ffa7760043
+    server: fsyy.fosi.hk
+    port: 54634
+    uuid: d39a1fec-5939-3bb8-af7b-62ddc236a499
     alterId: 0
     cipher: auto
     udp: true
   -
     name: hx1-日本a-1Gbps
     type: vmess
-    server: hzyd.donghui.tech
-    port: 39610
-    uuid: 6031ffba-2b58-33cd-92eb-b6ffa7760043
+    server: shshcua.fosi.hk
+    port: 25854
+    uuid: d39a1fec-5939-3bb8-af7b-62ddc236a499
     alterId: 0
     cipher: auto
     udp: true
   -
-    name: 'hx1-日本b-1Gbps - x3倍率'
+    name: 'hx1-日本b-1Gbps - x2倍率'
     type: vmess
-    server: shshcua.fosi.hk
-    port: 60601
-    uuid: 6031ffba-2b58-33cd-92eb-b6ffa7760043
+    server: qqbdshcm.donghui.tech
+    port: 44508
+    uuid: d39a1fec-5939-3bb8-af7b-62ddc236a499
     alterId: 0
     cipher: auto
     udp: true
@@ -90,7 +108,7 @@ proxies:
     type: vmess
     server: hzcu.donghui.tech
     port: 56334
-    uuid: 6031ffba-2b58-33cd-92eb-b6ffa7760043
+    uuid: d39a1fec-5939-3bb8-af7b-62ddc236a499
     alterId: 0
     cipher: auto
     udp: true
@@ -99,25 +117,52 @@ proxies:
     type: vmess
     server: shdx.donghui.tech
     port: 40765
-    uuid: 6031ffba-2b58-33cd-92eb-b6ffa7760043
+    uuid: d39a1fec-5939-3bb8-af7b-62ddc236a499
     alterId: 0
     cipher: auto
     udp: true
   -
     name: hx1-韩国1-1Gbps-x2倍率
     type: vmess
-    server: shshcua.fosi.hk
-    port: 55175
-    uuid: 6031ffba-2b58-33cd-92eb-b6ffa7760043
+    server: bbjcu.donghui.tech
+    port: 25240
+    uuid: d39a1fec-5939-3bb8-af7b-62ddc236a499
     alterId: 0
     cipher: auto
     udp: true
   -
     name: hx1-韩国2-1Gbps-x2.5倍率
     type: vmess
-    server: qqbdshcm.donghui.tech
-    port: 26561
-    uuid: 6031ffba-2b58-33cd-92eb-b6ffa7760043
+    server: hzyd.donghui.tech
+    port: 39610
+    uuid: d39a1fec-5939-3bb8-af7b-62ddc236a499
+    alterId: 0
+    cipher: auto
+    udp: true
+  -
+    name: hx2-德国a
+    type: vmess
+    server: bbjcu.donghui.tech
+    port: 64541
+    uuid: d39a1fec-5939-3bb8-af7b-62ddc236a499
+    alterId: 0
+    cipher: auto
+    udp: true
+  -
+    name: hx2-越南a-1
+    type: vmess
+    server: fsyy.fosi.hk
+    port: 39186
+    uuid: d39a1fec-5939-3bb8-af7b-62ddc236a499
+    alterId: 0
+    cipher: auto
+    udp: true
+  -
+    name: 'hx2德国b -'
+    type: vmess
+    server: fsyy.fosi.hk
+    port: 47578
+    uuid: d39a1fec-5939-3bb8-af7b-62ddc236a499
     alterId: 0
     cipher: auto
     udp: true
@@ -126,18 +171,23 @@ proxy-groups:
     name: 🔰国外流量
     type: select
     proxies:
-      - dx1-台湾b-1Gbps
-      - hx1-印度a-x3倍率
-      - hx1-台湾a-1Gbps
-      - hx1-台湾b-1Gbps
+      - hx1-香港a-1Gbps
+      - hx1-香港b-1Gbps
+      - 'Ax1-香港b-1Gbps -x2倍率'
+      - Ax2-香港a-1Gbps
+      - Ax2-香港b-1Gbps
+      - 'hx1 台湾1 -1Gbps'
       - 'hx1-新加坡-a1Gbps -x3倍率'
       - 'hx1-新加坡-b1Gbps -x3倍率'
       - hx1-日本a-1Gbps
-      - 'hx1-日本b-1Gbps - x3倍率'
+      - 'hx1-日本b-1Gbps - x2倍率'
       - 'hx1-美国a-1Gbps -x2倍率'
       - 'hx1-美国A-1Gbps -x3倍率'
       - hx1-韩国1-1Gbps-x2倍率
       - hx1-韩国2-1Gbps-x2.5倍率
+      - hx2-德国a
+      - hx2-越南a-1
+      - 'hx2德国b -'
       - 🚀直接连接
   -
     name: ⚓️其他流量
@@ -150,86 +200,111 @@ proxy-groups:
     type: select
     proxies:
       - 🔰国外流量
-      - dx1-台湾b-1Gbps
-      - hx1-印度a-x3倍率
-      - hx1-台湾a-1Gbps
-      - hx1-台湾b-1Gbps
+      - hx1-香港a-1Gbps
+      - hx1-香港b-1Gbps
+      - 'Ax1-香港b-1Gbps -x2倍率'
+      - Ax2-香港a-1Gbps
+      - Ax2-香港b-1Gbps
+      - 'hx1 台湾1 -1Gbps'
       - 'hx1-新加坡-a1Gbps -x3倍率'
       - 'hx1-新加坡-b1Gbps -x3倍率'
       - hx1-日本a-1Gbps
-      - 'hx1-日本b-1Gbps - x3倍率'
+      - 'hx1-日本b-1Gbps - x2倍率'
       - 'hx1-美国a-1Gbps -x2倍率'
       - 'hx1-美国A-1Gbps -x3倍率'
       - hx1-韩国1-1Gbps-x2倍率
       - hx1-韩国2-1Gbps-x2.5倍率
+      - hx2-德国a
+      - hx2-越南a-1
+      - 'hx2德国b -'
   -
     name: 🎬Youtube
     type: select
     proxies:
       - 🔰国外流量
-      - dx1-台湾b-1Gbps
-      - hx1-印度a-x3倍率
-      - hx1-台湾a-1Gbps
-      - hx1-台湾b-1Gbps
+      - hx1-香港a-1Gbps
+      - hx1-香港b-1Gbps
+      - 'Ax1-香港b-1Gbps -x2倍率'
+      - Ax2-香港a-1Gbps
+      - Ax2-香港b-1Gbps
+      - 'hx1 台湾1 -1Gbps'
       - 'hx1-新加坡-a1Gbps -x3倍率'
       - 'hx1-新加坡-b1Gbps -x3倍率'
       - hx1-日本a-1Gbps
-      - 'hx1-日本b-1Gbps - x3倍率'
+      - 'hx1-日本b-1Gbps - x2倍率'
       - 'hx1-美国a-1Gbps -x2倍率'
       - 'hx1-美国A-1Gbps -x3倍率'
       - hx1-韩国1-1Gbps-x2倍率
       - hx1-韩国2-1Gbps-x2.5倍率
+      - hx2-德国a
+      - hx2-越南a-1
+      - 'hx2德国b -'
   -
     name: 🎬Netflix
     type: select
     proxies:
       - 🔰国外流量
-      - dx1-台湾b-1Gbps
-      - hx1-印度a-x3倍率
-      - hx1-台湾a-1Gbps
-      - hx1-台湾b-1Gbps
+      - hx1-香港a-1Gbps
+      - hx1-香港b-1Gbps
+      - 'Ax1-香港b-1Gbps -x2倍率'
+      - Ax2-香港a-1Gbps
+      - Ax2-香港b-1Gbps
+      - 'hx1 台湾1 -1Gbps'
       - 'hx1-新加坡-a1Gbps -x3倍率'
       - 'hx1-新加坡-b1Gbps -x3倍率'
       - hx1-日本a-1Gbps
-      - 'hx1-日本b-1Gbps - x3倍率'
+      - 'hx1-日本b-1Gbps - x2倍率'
       - 'hx1-美国a-1Gbps -x2倍率'
       - 'hx1-美国A-1Gbps -x3倍率'
       - hx1-韩国1-1Gbps-x2倍率
       - hx1-韩国2-1Gbps-x2.5倍率
+      - hx2-德国a
+      - hx2-越南a-1
+      - 'hx2德国b -'
   -
     name: 🎬哔哩哔哩
     type: select
     proxies:
       - 🚀直接连接
-      - dx1-台湾b-1Gbps
-      - hx1-印度a-x3倍率
-      - hx1-台湾a-1Gbps
-      - hx1-台湾b-1Gbps
+      - hx1-香港a-1Gbps
+      - hx1-香港b-1Gbps
+      - 'Ax1-香港b-1Gbps -x2倍率'
+      - Ax2-香港a-1Gbps
+      - Ax2-香港b-1Gbps
+      - 'hx1 台湾1 -1Gbps'
       - 'hx1-新加坡-a1Gbps -x3倍率'
       - 'hx1-新加坡-b1Gbps -x3倍率'
       - hx1-日本a-1Gbps
-      - 'hx1-日本b-1Gbps - x3倍率'
+      - 'hx1-日本b-1Gbps - x2倍率'
       - 'hx1-美国a-1Gbps -x2倍率'
       - 'hx1-美国A-1Gbps -x3倍率'
       - hx1-韩国1-1Gbps-x2倍率
       - hx1-韩国2-1Gbps-x2.5倍率
+      - hx2-德国a
+      - hx2-越南a-1
+      - 'hx2德国b -'
   -
     name: 🎬国外媒体
     type: select
     proxies:
       - 🔰国外流量
-      - dx1-台湾b-1Gbps
-      - hx1-印度a-x3倍率
-      - hx1-台湾a-1Gbps
-      - hx1-台湾b-1Gbps
+      - hx1-香港a-1Gbps
+      - hx1-香港b-1Gbps
+      - 'Ax1-香港b-1Gbps -x2倍率'
+      - Ax2-香港a-1Gbps
+      - Ax2-香港b-1Gbps
+      - 'hx1 台湾1 -1Gbps'
       - 'hx1-新加坡-a1Gbps -x3倍率'
       - 'hx1-新加坡-b1Gbps -x3倍率'
       - hx1-日本a-1Gbps
-      - 'hx1-日本b-1Gbps - x3倍率'
+      - 'hx1-日本b-1Gbps - x2倍率'
       - 'hx1-美国a-1Gbps -x2倍率'
       - 'hx1-美国A-1Gbps -x3倍率'
       - hx1-韩国1-1Gbps-x2倍率
       - hx1-韩国2-1Gbps-x2.5倍率
+      - hx2-德国a
+      - hx2-越南a-1
+      - 'hx2德国b -'
   -
     name: 🍎苹果服务
     type: select
