@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2023-08-28 10:31:35
+## 更新：2023-08-28 12:31:26
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://www.jafiyun2023.shop/link/ryONv71g16LQKwWx?clash=1
+## 链接：https://www.jafiyun2023.shop/link/mQH8kKzD3smudpbd?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
@@ -34,26 +34,26 @@ secret: ''
 
 
 proxies:
-  - {"name":"A丨机场网址丨www.jafiyun2023.live丨6月广告香港节点","type":"vmess","server":"scloud17.jafiyun.world","port":22017,"uuid":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨15-韩国丨Trojan丨Tiktok","type":"trojan","server":"scloud15.jafiyun.world","port":22015,"password":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","sni":"scloud15.jafiyun.world"}
-  - {"name":"Vip1丨16-韩国丨Trojan丨Tiktok","type":"trojan","server":"scloud16.jafiyun.world","port":22016,"password":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","sni":"scloud16.jafiyun.world"}
-  - {"name":"Vip1丨18-韩国丨Vmess丨Tiktok","type":"vmess","server":"scloud18.jafiyun.world","port":22018,"uuid":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨19-韩国丨Vmess丨Tiktok","type":"vmess","server":"jafi19.jafiyun.world","port":22019,"uuid":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨41-新加坡丨Trojan丨ChatGPT","type":"trojan","server":"scloud41.jafiyun.world","port":22041,"password":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","sni":"scloud41.jafiyun.world"}
-  - {"name":"Vip1丨42-新加坡丨Trojan丨ChatGPT","type":"trojan","server":"scloud42.jafiyun.world","port":22042,"password":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","sni":"scloud42.jafiyun.world"}
-  - {"name":"Vip1丨43-新加坡丨Trojan丨ChatGPT","type":"trojan","server":"scloud43.jafiyun.world","port":22043,"password":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","sni":"scloud43.jafiyun.world"}
-  - {"name":"Vip1丨52-日本丨Trojan丨ChatGPT","type":"trojan","server":"scloud52.jafiyun.world","port":22052,"password":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","sni":"scloud52.jafiyun.world"}
-  - {"name":"Vip1丨53-日本丨Trojan丨ChatGPT","type":"trojan","server":"scloud53.jafiyun.world","port":22053,"password":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","sni":"scloud53.jafiyun.world"}
-  - {"name":"Vip1丨54-日本丨Trojan丨ChatGPT","type":"trojan","server":"scloud54.jafiyun.world","port":22054,"password":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","sni":"scloud54.jafiyun.world"}
-  - {"name":"Vip1丨55-澳大利亚丨Trojan丨","type":"trojan","server":"scloud55.jafiyun.world","port":22055,"password":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","sni":"scloud55.jafiyun.world"}
-  - {"name":"Vip1丨56-美国丨Trojan丨ChatGPT","type":"trojan","server":"scloud56.jafiyun.world","port":22056,"password":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","sni":"scloud56.jafiyun.world"}
-  - {"name":"Vip1丨57-美国丨Trojan丨ChatGPT","type":"trojan","server":"scloud57.jafiyun.world","port":22057,"password":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","sni":"scloud57.jafiyun.world"}
-  - {"name":"Vip1丨58-美国丨Trojan丨ChatGPT","type":"trojan","server":"scloud58.jafiyun.world","port":22058,"password":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","sni":"scloud58.jafiyun.world"}
-  - {"name":"Vip1丨59-日本丨Trojan丨ChatGPT","type":"trojan","server":"scloud59.jafiyun.world","port":22059,"password":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","sni":"scloud59.jafiyun.world"}
-  - {"name":"Vip1丨60-日本丨Trojan丨ChatGPT","type":"trojan","server":"scloud60.jafiyun.world","port":22060,"password":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","sni":"scloud60.jafiyun.world"}
-  - {"name":"Vip1丨香港30丨Vmess","type":"vmess","server":"scloud30.jafiyun.world","port":22030,"uuid":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨香港31丨Vmess","type":"vmess","server":"scloud31.jafiyun.world","port":22031,"uuid":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨香港32丨Vmess","type":"vmess","server":"scloud32.jafiyun.world","port":22032,"uuid":"ff71d5e8-b1fd-3031-a8dc-d4348ddccd01","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"A丨机场网址丨www.jafiyun2023.live丨6月广告香港节点","type":"vmess","server":"scloud17.jafiyun.world","port":22017,"uuid":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨15-韩国丨Trojan丨Tiktok","type":"trojan","server":"scloud15.jafiyun.world","port":22015,"password":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","sni":"scloud15.jafiyun.world"}
+  - {"name":"Vip1丨16-韩国丨Trojan丨Tiktok","type":"trojan","server":"scloud16.jafiyun.world","port":22016,"password":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","sni":"scloud16.jafiyun.world"}
+  - {"name":"Vip1丨18-韩国丨Vmess丨Tiktok","type":"vmess","server":"scloud18.jafiyun.world","port":22018,"uuid":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨19-韩国丨Vmess丨Tiktok","type":"vmess","server":"jafi19.jafiyun.world","port":22019,"uuid":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨41-新加坡丨Trojan丨ChatGPT","type":"trojan","server":"scloud41.jafiyun.world","port":22041,"password":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","sni":"scloud41.jafiyun.world"}
+  - {"name":"Vip1丨42-新加坡丨Trojan丨ChatGPT","type":"trojan","server":"scloud42.jafiyun.world","port":22042,"password":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","sni":"scloud42.jafiyun.world"}
+  - {"name":"Vip1丨43-新加坡丨Trojan丨ChatGPT","type":"trojan","server":"scloud43.jafiyun.world","port":22043,"password":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","sni":"scloud43.jafiyun.world"}
+  - {"name":"Vip1丨52-日本丨Trojan丨ChatGPT","type":"trojan","server":"scloud52.jafiyun.world","port":22052,"password":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","sni":"scloud52.jafiyun.world"}
+  - {"name":"Vip1丨53-日本丨Trojan丨ChatGPT","type":"trojan","server":"scloud53.jafiyun.world","port":22053,"password":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","sni":"scloud53.jafiyun.world"}
+  - {"name":"Vip1丨54-日本丨Trojan丨ChatGPT","type":"trojan","server":"scloud54.jafiyun.world","port":22054,"password":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","sni":"scloud54.jafiyun.world"}
+  - {"name":"Vip1丨55-澳大利亚丨Trojan丨","type":"trojan","server":"scloud55.jafiyun.world","port":22055,"password":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","sni":"scloud55.jafiyun.world"}
+  - {"name":"Vip1丨56-美国丨Trojan丨ChatGPT","type":"trojan","server":"scloud56.jafiyun.world","port":22056,"password":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","sni":"scloud56.jafiyun.world"}
+  - {"name":"Vip1丨57-美国丨Trojan丨ChatGPT","type":"trojan","server":"scloud57.jafiyun.world","port":22057,"password":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","sni":"scloud57.jafiyun.world"}
+  - {"name":"Vip1丨58-美国丨Trojan丨ChatGPT","type":"trojan","server":"scloud58.jafiyun.world","port":22058,"password":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","sni":"scloud58.jafiyun.world"}
+  - {"name":"Vip1丨59-日本丨Trojan丨ChatGPT","type":"trojan","server":"scloud59.jafiyun.world","port":22059,"password":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","sni":"scloud59.jafiyun.world"}
+  - {"name":"Vip1丨60-日本丨Trojan丨ChatGPT","type":"trojan","server":"scloud60.jafiyun.world","port":22060,"password":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","sni":"scloud60.jafiyun.world"}
+  - {"name":"Vip1丨香港30丨Vmess","type":"vmess","server":"scloud30.jafiyun.world","port":22030,"uuid":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨香港31丨Vmess","type":"vmess","server":"scloud31.jafiyun.world","port":22031,"uuid":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨香港32丨Vmess","type":"vmess","server":"scloud32.jafiyun.world","port":22032,"uuid":"fc7b48ff-2b14-3395-8c03-ddc07becebbe","alterId":0,"cipher":"auto","udp":true}
 
 proxy-groups:
 -
