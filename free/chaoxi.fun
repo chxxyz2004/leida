@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://cxsub.club/link/s18oBmao0qOg2iyb?clash=1
+#!MANAGED-CONFIG https://cxsub.club/link/NAW6cXSQwLqHZjKl?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2023-09-18 09:31:45
+## 上次更新于：2023-09-18 10:32:41
 #---------------------------------------------------#
 
 mixed-port: 7890
@@ -58,9 +58,9 @@ proxies:
     cipher: chacha20-ietf
     password: cxssr911
     protocol: auth_aes128_md5
-    protocol-param: '74937:p7oNoLqakOA6AWgP'
+    protocol-param: '74941:Q0Eo65Fhi6zxaVN9'
     obfs: http_simple
-    obfs-param: 075c274937.microsoft.com
+    obfs-param: 3bbaf74941.microsoft.com
     udp: true
 proxy-groups:
   -
