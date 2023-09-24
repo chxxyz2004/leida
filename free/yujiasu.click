@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://yjssub.pro/link/xQzCP13Ir91419tV?clash=1
+#!MANAGED-CONFIG https://yjssub.pro/link/ysE7S3ldci7iMKL1?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2023-03-25 06:29:27
+## 上次更新于：2023-09-25 02:30:15
 #---------------------------------------------------#
 
 mixed-port: 7890
@@ -51,40 +51,16 @@ dns:
       - +.githubusercontent.com
 proxies:
   -
-    name: '1. 跳转域名： yujiasu.net'
+    name: '1. 引导页：bit.ly/46Khvea'
     type: ssr
-    server: yujiasu.net
+    server: bit.ly/46Khvea
     port: 5000
     cipher: chacha20-ietf
     password: lbNVOz
     protocol: auth_aes128_md5
-    protocol-param: '36431:EbcMzAye6GFZoxL1'
+    protocol-param: '37560:CixjnANc3qmKuGgT'
     obfs: http_simple
-    obfs-param: 5a20336431.microsoft.com
-    udp: true
-  -
-    name: '2. 主站域名： yujiasu.app'
-    type: ssr
-    server: yujiasu.app
-    port: 5000
-    cipher: chacha20-ietf
-    password: lbNVOz
-    protocol: auth_aes128_md5
-    protocol-param: '36431:EbcMzAye6GFZoxL1'
-    obfs: http_simple
-    obfs-param: 5a20336431.microsoft.com
-    udp: true
-  -
-    name: '3. TG组 ：https://t.me/yjsserver'
-    type: ssr
-    server: t.me/yjsserver
-    port: 31048
-    cipher: chacha20-ietf
-    password: EbcMzAye6GFZoxL1
-    protocol: auth_aes128_sha1
-    protocol-param: ''
-    obfs: http_simple
-    obfs-param: ''
+    obfs-param: 6302c37560.microsoft.com
     udp: true
 proxy-groups:
   -
@@ -92,9 +68,7 @@ proxy-groups:
     type: select
     proxies:
       - '⭐️ Auto'
-      - '1. 跳转域名： yujiasu.net'
-      - '2. 主站域名： yujiasu.app'
-      - '3. TG组 ：https://t.me/yjsserver'
+      - '1. 引导页：bit.ly/46Khvea'
   -
     name: '🍂 Domestic'
     type: select
@@ -110,9 +84,7 @@ proxy-groups:
     name: '⭐️ Auto'
     type: url-test
     proxies:
-      - '1. 跳转域名： yujiasu.net'
-      - '2. 主站域名： yujiasu.app'
-      - '3. TG组 ：https://t.me/yjsserver'
+      - '1. 引导页：bit.ly/46Khvea'
     url: 'http://www.gstatic.com/generate_204'
     interval: '28800'
 
