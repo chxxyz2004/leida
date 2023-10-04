@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://yjssub.pro/link/x9ZxrCFDvcKFCJAq?clash=1
+#!MANAGED-CONFIG https://yjssub.pro/link/hhfRRsffgPLASsY3?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2023-10-04 04:33:14
+## 上次更新于：2023-10-04 06:34:33
 #---------------------------------------------------#
 
 mixed-port: 7890
@@ -51,16 +51,16 @@ dns:
       - +.githubusercontent.com
 proxies:
   -
-    name: '1. 引导页：bit.ly/46Khvea'
+    name: '1 引导页：bit.ly/46Khvea'
     type: ssr
     server: bit.ly/46Khvea
     port: 5000
     cipher: chacha20-ietf
     password: lbNVOz
     protocol: auth_aes128_md5
-    protocol-param: '37888:Jyo2xtyYBgkY9HK7'
+    protocol-param: '37890:pyfwdbarQhRBPZeb'
     obfs: http_simple
-    obfs-param: baea737888.microsoft.com
+    obfs-param: 794a337890.microsoft.com
     udp: true
 proxy-groups:
   -
@@ -68,7 +68,7 @@ proxy-groups:
     type: select
     proxies:
       - '⭐️ Auto'
-      - '1. 引导页：bit.ly/46Khvea'
+      - '1 引导页：bit.ly/46Khvea'
   -
     name: '🍂 Domestic'
     type: select
@@ -84,7 +84,7 @@ proxy-groups:
     name: '⭐️ Auto'
     type: url-test
     proxies:
-      - '1. 引导页：bit.ly/46Khvea'
+      - '1 引导页：bit.ly/46Khvea'
     url: 'http://www.gstatic.com/generate_204'
     interval: '28800'
 

@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://cxsub.club/link/5ktu3JUkIyRaAjpA?clash=1
+#!MANAGED-CONFIG https://cxsub.club/link/IIJYosqyj0zRdIIR?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2023-10-04 04:32:51
+## 上次更新于：2023-10-04 06:32:38
 #---------------------------------------------------#
 
 mixed-port: 7890
@@ -51,16 +51,16 @@ dns:
       - +.githubusercontent.com
 proxies:
   -
-    name: '1. 引导页：bit.ly/3robtQv'
+    name: '1 引导页：bit.ly/3robtQv'
     type: ssr
     server: chaoxi.cool
     port: 2000
     cipher: chacha20-ietf
     password: cxssr911
     protocol: auth_aes128_md5
-    protocol-param: '75434:DSqvYMRQ3Ru63tPq'
+    protocol-param: '75435:b0mPdquhRpjZvDmC'
     obfs: http_simple
-    obfs-param: f23c175434.microsoft.com
+    obfs-param: 28fbd75435.microsoft.com
     udp: true
 proxy-groups:
   -
@@ -68,7 +68,7 @@ proxy-groups:
     type: select
     proxies:
       - '⭐️ Auto'
-      - '1. 引导页：bit.ly/3robtQv'
+      - '1 引导页：bit.ly/3robtQv'
   -
     name: '🍂 Domestic'
     type: select
@@ -84,7 +84,7 @@ proxy-groups:
     name: '⭐️ Auto'
     type: url-test
     proxies:
-      - '1. 引导页：bit.ly/3robtQv'
+      - '1 引导页：bit.ly/3robtQv'
     url: 'http://www.gstatic.com/generate_204'
     interval: '28800'
 
