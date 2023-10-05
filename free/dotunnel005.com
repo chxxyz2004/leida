@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://dotunnel.net/link/fs44lhAlss3YyuOg?clash=1
+#!MANAGED-CONFIG https://dotunnel.net/link/UfiTAnpJx3DfQJR2?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2023-10-05 12:30:29
+## 上次更新于：2023-10-05 04:33:09
 #---------------------------------------------------#
 
 port: 7890
