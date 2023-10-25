@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://yjssub.pro/link/F6XiHeld2vPwtN5G?clash=1
+#!MANAGED-CONFIG https://yjssub.pro/link/5ziAhyAKTcbblXeK?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2023-10-25 09:31:59
+## 上次更新于：2023-10-25 10:32:59
 #---------------------------------------------------#
 
 mixed-port: 7890
@@ -58,9 +58,9 @@ proxies:
     cipher: chacha20-ietf
     password: lbNVOz
     protocol: auth_aes128_md5
-    protocol-param: '38611:AQliV6RNBA4uZ9HP'
+    protocol-param: '38613:tZ50d0Y4jKTsz1zN'
     obfs: http_simple
-    obfs-param: e02f938611.microsoft.com
+    obfs-param: e635538613.microsoft.com
     udp: true
 proxy-groups:
   -
